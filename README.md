@@ -1,4 +1,4 @@
-testJADE
+JADE Framework Sensor Example
 ========
 
-using JADE Framework
+Get JADE at http://jade.tilab.com/
